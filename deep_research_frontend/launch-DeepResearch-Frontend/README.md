@@ -1,16 +1,6 @@
-# 🎨 Deep Research Agent - Frontend
+# Deep Research Agent - Frontend
 
 A modern, responsive Next.js frontend for the Deep Research Agent. Features real-time streaming research progress, multi-model support, and an intuitive chat-like interface similar to Perplexity and OpenAI's thinking mode.
-
-📹 Full YouTube Guide: [Youtube link](https://www.youtube.com/watch?v=dw9Vkig47S0&list=PLE9hy4A7ZTmpGq7GHf5tgGFWh2277AeDR&index=29)
-
-🚀 X Post: [X link](https://x.com/ShenSeanChen/status/1969013359010873513)
-
-💻 Launch Full Stack Product: [Github Repo](https://github.com/ShenSeanChen/launch-mvp-stripe-nextjs-supabase)
-
-☕️ Buy me a coffee: [Cafe Latte](https://buy.stripe.com/5kA176bA895ggog4gh)
-
-🤖️ Discord: [Invite link](https://discord.com/invite/TKKPzZheua)
 
 ## ✨ Features
 
@@ -552,22 +542,6 @@ localStorage.setItem('debug', 'true')
 
 MIT License - see LICENSE file for details.
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Follow Google coding standards
-4. Add comments to all code
-5. Test on mobile and desktop
-6. Submit a pull request
-
-## 📞 Support
-
-- Create an issue for bugs or feature requests
-- Check browser console for error messages
-- Verify backend connectivity first
-- Review environment configuration
-
 ---
 
-Built with ❤️ using Next.js, TypeScript, and Tailwind CSS.
+Built with: using Next.js, TypeScript, and Tailwind CSS.
