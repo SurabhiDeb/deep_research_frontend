@@ -538,10 +538,3 @@ localStorage.setItem('debug', 'true')
 - **ESLint**: Code linting
 - **Prettier**: Code formatting
 
-## 📝 License
-
-MIT License - see LICENSE file for details.
-
----
-
-Built with: using Next.js, TypeScript, and Tailwind CSS.
